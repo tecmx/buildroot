@@ -1,0 +1,1 @@
+cmd_/workspaces/buildroot/custom-scripts/sstf-io-scheduler/sstf-iosched.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /workspaces/buildroot/custom-scripts/sstf-io-scheduler/sstf-iosched.ko /workspaces/buildroot/custom-scripts/sstf-io-scheduler/sstf-iosched.o /workspaces/buildroot/custom-scripts/sstf-io-scheduler/sstf-iosched.mod.o ;  true

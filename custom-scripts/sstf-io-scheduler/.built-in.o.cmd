@@ -1,0 +1,1 @@
+cmd_/workspaces/buildroot/custom-scripts/sstf-io-scheduler/built-in.o :=  rm -f /workspaces/buildroot/custom-scripts/sstf-io-scheduler/built-in.o; ar rcSTPD /workspaces/buildroot/custom-scripts/sstf-io-scheduler/built-in.o
